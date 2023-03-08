@@ -1,2 +1,3 @@
-# Adventures-of-fish-lip-Fox
+# 鱼唇狐狸历险记
 **点击game/sj5k_canabalt.exe开玩！**
+[空格: 跳跃][←→: 调整身位][鼠标左键点击天花板: 释放钩子]
